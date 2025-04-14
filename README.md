@@ -1,5 +1,6 @@
-# Welcome to My Auction Website!
+# Welcome to Pokebid!
 
+Pokebid is a auction website of pokemon cards.
 Here, I will explain some of the features I've implemented, the reasons behind them:
 
 ## Some Features I've Implemented
