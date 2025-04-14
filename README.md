@@ -39,6 +39,6 @@ Here, I will explain some of the features I've implemented, the reasons behind t
 
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Run the backend server using npm i and npm start.
-4. Run the frontend server using npm i and npm start.
+3. Run the backend server using ``npm i`` and ``npm start``.
+4. Run the frontend server using ``npm i`` and ``npm start``.
 5. Open your browser and go to referenced URL.
